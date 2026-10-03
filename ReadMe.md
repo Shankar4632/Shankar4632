@@ -84,21 +84,3 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-
-# 📚 Currently Learning:
-
-```text
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-REST APIs
-   ↓
-JWT Authentication
-   ↓
-Full-Stack MERN Development
