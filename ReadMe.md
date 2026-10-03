@@ -86,68 +86,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
-# 🚀 Professional Experience:
-
-### 👨‍💻 Team Lead — WordPress & Shopify Developer
-
-**NXS Infotech | Surat, Gujarat, India**
-
-- 3+ years of professional web development experience.
-- Led end-to-end delivery of WordPress and Shopify websites.
-- Worked on requirement gathering, development, QA, deployment and post-launch support.
-- Built and maintained 10+ WordPress websites.
-- Developed WooCommerce stores and configured products, payment gateways, shipping and checkout workflows.
-- Developed custom Shopify sections, templates and third-party app integrations.
-- Managed website migrations, SSL, DNS, backups and hosting environments.
-- Worked on website performance optimization and Core Web Vitals.
-- Troubleshot plugin conflicts, server issues and application-level bugs.
-- Coordinated development tasks and QA across multiple client projects.
-
-### 🌐 Selected Projects
-
-**WordPress**
-
-- wearetrademark.com
-- patchmd.com
-- momentumcyber.com
-- freshbros.com
-- punchcut.com
-
-**Shopify**
-
-- butterpecanbakeshop.com
-- thedartco.com
-- saltandsparkle.com
-
-
-# ⚛️ MERN Stack Projects:
-
-I'm currently building self-directed projects using the MERN stack.
-
-### 🏠 LandBid India
-
-Real-estate online bidding platform concept.
-
-**Technologies:**
-
-`React.js` `Node.js` `Express.js` `MongoDB` `REST API`
-
-### 🔥 Full-Stack MERN Applications
-
-Hands-on projects involving:
-
-- React.js frontend development
-- React Hooks
-- Express.js REST APIs
-- Node.js backend development
-- MongoDB
-- Mongoose
-- JWT Authentication
-- API integration
-- Component-based architecture
-- State management
-
-
 # 📚 Currently Learning:
 
 ```text
