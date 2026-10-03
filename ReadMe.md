@@ -14,8 +14,6 @@
 
 🛠️ Experienced in website deployment, migration, performance optimization and debugging.
 
-📍 Surat, Gujarat, India
-
 📫 Reach me at: shankargupta241@gmail.com
 
 
